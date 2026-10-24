@@ -1,0 +1,118 @@
+part_number,field,value
+00-411506-00013,Type,RX
+00-411506-00013,Temperature range,200–400 °F
+00-411506-00013,Bulb,"3/8 in × 5-5/8 in, nickel"
+00-411506-00013,Capillary length,24 in
+00-411506-00013,Fitting,3/8 in MPT stuff box
+00-411506-00013,Mount,11
+00-411506-00013,Dial,"#22-1339, 2-1/4 in dia., OFF-400-200"
+00-411506-00013,OEM naming,Hobart manual: “Thermostat – Reed”; Vulcan manual: “Thermostat - Millivolt”
+00-410687-00001,Type,KX (dip sealed)
+00-410687-00001,Temperature range,200–400 °F
+00-410687-00001,Bulb,"1/4 in × 12-1/8 in, nickel"
+00-410687-00001,Capillary length,48 in
+00-410687-00001,Fitting,3/8 in MPT stuff box
+00-410687-00001,Mount,1
+00-410687-00001,Dial,"#22-1191 (black knob, white numbers, 2 in dia., OFF-400-200)"
+00-414880-00001,Type,K
+00-414880-00001,Temperature range,200–400 °F
+00-414880-00001,Bulb,"5/16 in × 8-1/16 in, nickel"
+00-414880-00001,Capillary length,96 in
+00-414880-00001,Mount,1
+00-414880-00001,Dial options,"#22-1353 (indicator knob, 1-1/4 in dia.), #22-1191, #22-1006"
+00-419670-00001,Type,"LC117 Hi-Limit, auto reset"
+00-419670-00001,Cut-out temperature,450 °F (fixed)
+00-419670-00001,Bulb,"1/4 in × 4-7/8 in, nickel"
+00-419670-00001,Capillary length,30 in
+00-419670-00001,Fitting,"3/8 in MPT stuff box, nickel"
+00-419670-00001,Enclosure,7 in × 1.5 in × 1.5 in
+00-414146-00002,Type,"LCH Hi-Limit, manual reset"
+00-414146-00002,Cut-out temperature,435 °F (fixed)
+00-414146-00002,Bulb,"1/4 in × 4-7/8 in, nickel"
+00-414146-00002,Capillary length,24 in
+00-414146-00002,Bracket,#13
+00-348361-00001,Brand,Fenwal
+00-348361-00001,Temperature range,75–550 °F
+00-348361-00001,Electrical connection,2 × 1/4 in female push-on wire leads
+00-348361-00001,Mounting,1/2 in NPT
+00-348361-00001,Probe length,4-3/4 in
+00-348361-00001,Dial,"A2252 (#221185, round with indicator arrow)"
+00-348361-00001,Dial plate,A3335 / K-178 (#221344)
+RTCU700609 / RTBF800164,RTCU700609 function,Electronic control thermostat
+RTCU700609 / RTBF800164,RTCU700609 temperature range,105–185 °C (max 187 °C)
+RTCU700609 / RTBF800164,RTCU700609 poles,"Single pole, 16 A"
+RTCU700609 / RTBF800164,RTCU700609 probe,"⌀6 mm × 130 mm, capillary 900 mm"
+RTCU700609 / RTBF800164,RTBF800164 function,Limit (safety) thermostat
+RTCU700609 / RTBF800164,RTBF800164 cut-out,225 °C
+RTCU700609 / RTBF800164,RTBF800164 poles,"3-pole, function 3NC, 20 A"
+RTCU700609 / RTBF800164,RTBF800164 probe,"⌀6 mm × 94 mm, capillary 900 mm"
+RTCU700609 / RTBF800164,RTBF800164 fitting,"M10 × 1 union nut, stainless steel probe"
+RTCU700609 / RTBF800164,OEM naming,"Hobart spare-parts diagram: “Thermostat electronic” (RTCU700609, item 31) and “Limit thermostat” (RTBF800164, item 32)"
+00-410841-00001,Type,"Millivolt combination gas valve (bleed-gas safety valve, thermopile-driven diaphragm)"
+00-410841-00001,Operator,"Thermopile, 750 mV open circuit / 500 mV under load"
+00-410841-00001,Inlet / outlet,3/4 in FPT in and out; 1/4 in CCT pilot out; 3/4 in × 1/2 in reducer bushings included
+00-410841-00001,Regulator,3.5 in WC natural gas; 0.5 psi maximum inlet
+00-410841-00001,Capacity,"300,000 BTU"
+00-410841-00001,Gas cock,Off – Pilot – On
+00-410841-00001,Thermopile fitment,Screw-in type: H231 / T-103 / 51-1122
+00-410841-00001,LP conversion,"Kit 51-1470 (same valve body, different regulator spring)"
+00-410841-00001,Robertshaw equivalent,7000BMSGOR / 700-886
+00-410841-00022,Type,"Millivolt combination gas valve, wall-thermostat actuated"
+00-410841-00022,Operator,"Millivolt, 250–750 mV"
+00-410841-00022,Inlet,1/2 in FPT
+00-410841-00022,Outlet,3/4 in straight-through plus two plugged 1/2 in side outlets; 1/4 in CCT pilot outlet
+00-410841-00022,Regulator,"3.5 in WC natural gas, adjustable 3–7 in WC"
+00-410841-00022,Capacity,"240,000 BTU"
+00-410841-00022,Gas cock,Off – Pilot – On
+00-410841-00022,Maximum inlet,14 in WC
+00-410841-00022,LP conversion,Kit 51-1470
+00-410841-00022,Direct Robertshaw equivalent,700-504 (7000BMVR)
+00-410841-00028,Type,24 V combination gas valve for electronic ignition
+00-410841-00028,Supply,24 V AC 60 Hz / 12 V DC
+00-410841-00028,Inlet / outlet,1/2 in FPT in and out; 1/4 in CCT pilot outlet
+00-410841-00028,Capacity,"300,000 BTU"
+00-410841-00028,Maximum inlet,14 in WC
+00-410841-00028,LP conversion,Kit 51-1184
+00-410841-00028,Robertshaw equivalent,700-049 / 7000BDER-S7A
+00-410841-00028,Regulator setpoint,Not published consistently — sources disagree (3.0 in WC vs 3.5 in WC). Verify against your unit before ordering.
+00-959500-00001,Type,Board-level gas ignition module
+00-959500-00001,Application,Vulcan VK / TR / VFRY gas fryers
+00-959500-00001,Build date,Fryers built starting 12/1/2012 (OEM catalog section: POWER SUPPLY BOX — STARTING 12/1/12)
+00-959500-00001,Shipping dimensions,6.90 × 2.90 × 11.70 in
+00-959500-00001,Weight,1.22 lb
+00-959500-00001,Electrical rating,Not published by the OEM — do not assume a voltage or terminal arrangement from a catalog listing
+00-348358-00001,Type,Coaxial thermopile (single conductor through a 3/8-32 body)
+00-348358-00001,Output,250–750 mV
+00-348358-00001,Lead length,36 in
+00-348358-00001,Mounting thread,3/8-32
+00-348358-00001,Poles,1 (coaxial)
+00-348358-00001,Robertshaw equivalent,1951-53F
+00-348358-00001,Weight,0.15 lb (00-410839-00001 variant)
+00-410839-00004,Type,"Two-lead thermopile, 2 poles"
+00-410839-00004,Output,500 mV catalog designation; operating band 250–750 mV
+00-410839-00004,Lead length,36 in
+00-410839-00004,Robertshaw equivalent,1950-53B
+00-410839-00004,Weight,0.2 lb (721027-1 variant)
+00-410839-00004,OEM supersession,721027-1 is superseded by 00-410839-00004
+00-340307-00003 / 351306-00007,Voltage,240 V
+00-340307-00003 / 351306-00007,Wattage,5500 W
+00-340307-00003 / 351306-00007,Phase,1 Ph (240V/60/1 on the aftermarket equivalent)
+00-340307-00003 / 351306-00007,Element dimensions,"11"" x 9"" x 9-3/4"" H"
+00-340307-00003 / 351306-00007,Terminals,"Flag (spade) mount, 5/8""-18 thread"
+00-340307-00003 / 351306-00007,Weight,approx. 2.3 lb
+00-416741-000G9 / 00-416741-00G11 / 00-416741-00G12,Family,50 lb electric fryer element assembly
+00-416741-000G9 / 00-416741-00G11 / 00-416741-00G12,Wattage,8500 W (8.5 kW) on all three voltage versions
+00-416741-000G9 / 00-416741-00G11 / 00-416741-00G12,Voltage variants,208 V / 240 V / 480 V — three separate part numbers
+00-416741-000G9 / 00-416741-00G11 / 00-416741-00G12,Dimensions (208 V),"9.4"" x 21.75"" x 6.75"""
+00-416741-000G9 / 00-416741-00G11 / 00-416741-00G12,Dimensions (240 V),"12.9"" x 20.7"" x 6.75"""
+00-416741-000G9 / 00-416741-00G11 / 00-416741-00G12,Dimensions (480 V),"8.75"" x 20.4"" x 6.7"""
+00-416741-000G9 / 00-416741-00G11 / 00-416741-00G12,Phase / terminals,not published in the sources checked
+00-416741-000G9 / 00-416741-00G11 / 00-416741-00G12,Quantity per fryer,2
+00-421892-000G1 / 00-421892-000G3 / 00-421892-000G4,Family,85 lb electric fryer element assembly
+00-421892-000G1 / 00-421892-000G3 / 00-421892-000G4,Wattage,12000 W (12 kW) on the 208 V and 480 V versions; 240 V version listed at 12000 W
+00-421892-000G1 / 00-421892-000G3 / 00-421892-000G4,Voltage variants,208 V / 240 V / 480 V — three separate part numbers
+00-421892-000G1 / 00-421892-000G3 / 00-421892-000G4,Dimensions (208 V),"9.3"" x 20.85"" x 9"""
+00-421892-000G1 / 00-421892-000G3 / 00-421892-000G4,Dimensions (480 V),"10"" x 18"" x 9"""
+00-421892-000G1 / 00-421892-000G3 / 00-421892-000G4,Dimensions (240 V),not published in the sources checked
+00-421892-000G1 / 00-421892-000G3 / 00-421892-000G4,Related part,Element head assembly 00-421829-000G1
+00-421892-000G1 / 00-421892-000G3 / 00-421892-000G4,Phase / terminals,not published in the sources checked
