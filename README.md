@@ -4,6 +4,9 @@ A machine-readable cross-reference dataset for commercial deep-fryer components:
 
 Assembled from publicly available OEM parts manuals, distributor catalogs and interchange tables. Provided as a reference for identification and research.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23613054.svg)](https://doi.org/10.5281/zenodo.23613054)
+
+**Archived version with DOI:** [10.5281/zenodo.23613054](https://doi.org/10.5281/zenodo.23613054)
 **Full reference site:** https://magenta-puffpuff-d66f59.netlify.app
 
 ---
@@ -75,3 +78,36 @@ One row per (part, brand, model). Model strings are reproduced as published; som
 ## Related reference
 
 The site at **https://magenta-puffpuff-d66f59.netlify.app** expands each part number into a full page: specifications, cross-references, compatible models, availability observations, and a "what to verify before ordering" list. It also carries part-number comparisons and longer guides on how this parts market works.
+
+---
+
+## How to cite
+
+```
+Xue, Kyle. (2026). Commercial Fryer Parts Cross-Reference Dataset
+(Hobart / Vulcan / Wolf / Garland / Frymaster) (Version 1.0) [Data set].
+Zenodo. https://doi.org/10.5281/zenodo.23613054
+```
+
+BibTeX:
+
+```bibtex
+@dataset{xue_2026_fryer_parts,
+  author    = {Xue, Kyle},
+  title     = {Commercial Fryer Parts Cross-Reference Dataset
+               (Hobart / Vulcan / Wolf / Garland / Frymaster)},
+  year      = 2026,
+  publisher = {Zenodo},
+  version   = {1.0},
+  doi       = {10.5281/zenodo.23613054},
+  url       = {https://doi.org/10.5281/zenodo.23613054}
+}
+```
+
+---
+
+## Version history
+
+| Version | Date | DOI | Change |
+|---|---|---|---|
+| 1.0 | 2026-10-24 | 10.5281/zenodo.23613054 | Initial release |
