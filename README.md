@@ -7,7 +7,7 @@ Assembled from publicly available OEM parts manuals, distributor catalogs and in
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23613054.svg)](https://doi.org/10.5281/zenodo.23613054)
 
 **Archived version with DOI:** [10.5281/zenodo.23613054](https://doi.org/10.5281/zenodo.23613054)
-**Full reference site:** https://magenta-puffpuff-d66f59.netlify.app
+**Full reference site:** https://fryerparts.pages.dev
 
 ---
 
@@ -77,7 +77,7 @@ One row per (part, brand, model). Model strings are reproduced as published; som
 
 ## Related reference
 
-The site at **https://magenta-puffpuff-d66f59.netlify.app** expands each part number into a full page: specifications, cross-references, compatible models, availability observations, and a "what to verify before ordering" list. It also carries part-number comparisons and longer guides on how this parts market works.
+The site at **https://fryerparts.pages.dev** expands each part number into a full page: specifications, cross-references, compatible models, availability observations, and a "what to verify before ordering" list. It also carries part-number comparisons and longer guides on how this parts market works.
 
 ---
 
