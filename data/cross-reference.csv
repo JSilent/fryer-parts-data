@@ -1,120 +1,157 @@
-primary_part_number,interchange_number
-00-411506-00013,411506-00013
-00-411506-00013,411506-13
-00-411506-00013,111506-13
-00-411506-00013,111506-8
-00-411506-00013,411506-8
-00-411506-00013,00-411506-00008
-00-411506-00013,411506-00008
-00-411506-00013,00-721025-00001
-00-411506-00013,721025-00001
-00-411506-00013,721025-1
-00-411506-00013,21025-1
-00-411506-00013,00-913153
-00-411506-00013,913153
-00-411506-00013,00-272582-00001
-00-411506-00013,272582-1
-00-411506-00013,Robertshaw RX-2-24
-00-411506-00013,Robertshaw 5300-40B
-00-411506-00013,AllPoints 461183
-00-410687-00001,410687-00001
-00-410687-00001,410687-1
-00-410687-00001,110687-1
-00-410687-00001,111506-9
-00-410687-00001,VH410687-1
-00-410687-00001,VH110687-1
-00-410687-00001,VH111506-9
-00-414880-00001,414880-00001
-00-414880-00001,414880-1
-00-414880-00001,114880-1
-00-414880-00001,24145-20
-00-414880-00001,VH414880-1
-00-414880-00001,VH114880-1
-00-414880-00001,VH24145-20
-00-419670-00001,419670-00001
-00-419670-00001,419670-1
-00-419670-00001,804735
-00-419670-00001,4735
-00-419670-00001,721029-00001
-00-419670-00001,721029-1
-00-419670-00001,119670-1
-00-419670-00001,21029-1
-00-419670-00001,AB-6753
-00-419670-00001,AB-6962
-00-414146-00002,414146-00002
-00-414146-00002,414146-2
-00-414146-00002,414146-1
-00-414146-00002,114146-1
-00-414146-00002,114146-2
-00-414146-00002,00-414146-00001
-00-414146-00002,00-416961-000G1
-00-414146-00002,416961-000G1
-00-414146-00002,416961-G1
-00-414146-00002,VH00-414146-00002
-00-348361-00001,348361-00001
-00-348361-00001,348361-1
-00-348361-00001,HOB00-348361-00001
-00-348361-00001,461520
-00-348361-00001,46-1520
-00-348361-00001,8060181
-RTCU700609 / RTBF800164,MRTCU700609
-RTCU700609 / RTBF800164,HOBRTCU700609
-RTCU700609 / RTBF800164,RTCU7006
-RTCU700609 / RTBF800164,EGO 5519032831
-RTCU700609 / RTBF800164,EGO 55.19032.831
-RTCU700609 / RTBF800164,EGO 5102918250
-RTCU700609 / RTBF800164,MBM291
-RTCU700609 / RTBF800164,5102918250
-RTCU700609 / RTBF800164,32065700
-RTCU700609 / RTBF800164,375856
-RTCU700609 / RTBF800164,93238
-RTCU700609 / RTBF800164,RTBF800164
-RTCU700609 / RTBF800164,MRTBF800164
-RTCU700609 / RTBF800164,HOBRTBF800164
-RTCU700609 / RTBF800164,M173501
-00-410841-00001,410841-1
-00-410841-00001,410841-00001
-00-410841-00001,110841-1
-00-410841-00001,VH410841-1
-00-410841-00001,00-410841-00002
-00-410841-00001,410841-2
-00-410841-00001,Robertshaw 7000BMSGOR
-00-410841-00001,Robertshaw 700-886
-00-410841-00001,51-1470
-00-410841-00001,H231
-00-410841-00001,T-103
-00-410841-00001,51-1122
-00-410841-00022,410841-22
-00-410841-00022,410841-2
-00-410841-00022,VH497271-1
-00-410841-00022,00-410841-00023
-00-410841-00022,Robertshaw 7000BMVR
-00-410841-00022,Robertshaw 700-504
-00-410841-00022,51-1470
-00-410841-00028,00-410841-00029
-00-410841-00028,Robertshaw 700-049
-00-410841-00028,Robertshaw 7000BDER-S7A
-00-410841-00028,51-1184
-00-959500-00001,959500-1
-00-959500-00001,959500-00001
-00-959500-00001,VH00-959500-00001
-00-959500-00001,N21308670
-00-348358-00001,348358-00001
-00-348358-00001,110839-1
-00-348358-00001,00-410839-00001
-00-348358-00001,410839-00001
-00-348358-00001,00-711335
-00-348358-00001,11335
-00-348358-00001,51-1122
-00-348358-00001,Robertshaw 1951-53F
-00-348358-00001,P8905-38
-00-348358-00001,810-0162
-00-410839-00004,410839-00004
-00-410839-00004,410839-4
-00-410839-00004,721027-1
-00-410839-00004,00-721027-00001
-00-410839-00004,51-1121
-00-410839-00004,Robertshaw 1950-53B
-00-410839-00004,00-497301-00001
-00-410839-00004,2J-Y9270
-00-410839-00004,STA2T-42195
+primary_part_number,interchange_number,relationship,source_type,confidence,direction
+00-348358-00001,00-410839-00001,"same family, Vulcan label",FoodServiceDirect replaces list,fact,same
+00-348358-00001,00-711335,same family,FoodServiceDirect replaces list,fact,same
+00-348358-00001,1054300,Southbend cross,FoodServiceDirect,fact,same
+00-348358-00001,1093418,Garland cross,FoodServiceDirect,fact,same
+00-348358-00001,110839-1,legacy short form,FoodServiceDirect replaces list,fact,same
+00-348358-00001,11335,legacy short form,FoodServiceDirect replaces list,fact,same
+00-348358-00001,1951-53F,Robertshaw,distributor + AllPoints,fact,same
+00-348358-00001,348358-00001,legacy-import,legacy,unverified,same
+00-348358-00001,410839-00001,legacy-import,legacy,unverified,same
+00-348358-00001,51-1122,AllPoints OCM (= Robertshaw 1951-53F),AllPoints,fact,same
+00-348358-00001,810-0162,Dean / Frymaster cross,FoodServiceDirect,fact,same
+00-348358-00001,P5047541,Pitco cross,FoodServiceDirect,fact,same
+00-348358-00001,P8905-38,Anets cross,FoodServiceDirect,fact,same
+00-348358-00001,Robertshaw 1951-53F,legacy-import,legacy,unverified,same
+00-348361-00001,348361-00001,legacy-import,legacy,unverified,same
+00-348361-00001,348361-1,legacy-import,legacy,unverified,same
+00-348361-00001,46-1520,legacy-import,legacy,unverified,same
+00-348361-00001,461520,legacy-import,legacy,unverified,same
+00-348361-00001,8060181,legacy-import,legacy,unverified,same
+00-348361-00001,HOB00-348361-00001,legacy-import,legacy,unverified,same
+00-410687-00001,110687-1,legacy-import,legacy,unverified,same
+00-410687-00001,111506-9,legacy-import,legacy,unverified,same
+00-410687-00001,410687-00001,legacy-import,legacy,unverified,same
+00-410687-00001,410687-1,legacy-import,legacy,unverified,same
+00-410687-00001,VH110687-1,legacy-import,legacy,unverified,same
+00-410687-00001,VH111506-9,legacy-import,legacy,unverified,same
+00-410687-00001,VH410687-1,legacy-import,legacy,unverified,same
+00-410839-00001,00-348358-00001,interchangeable,distributor replaces list,fact,same
+00-410839-00001,00-410839-00004,later production 2-lead successor,current OEM fryer catalogs,reported,superseded_by_alias
+00-410839-00001,00-711335,interchangeable,distributor replaces list,fact,same
+00-410839-00001,51-1122,AllPoints OCM,AllPoints,fact,same
+00-410839-00004,00-497301-00001,possible cross,o-reps,reported,same
+00-410839-00004,00-721027-00001,"superseded number, long form",distributor,fact,superseded_by_alias
+00-410839-00004,2J-Y9270,Star Mfg cross,o-reps,reported,same
+00-410839-00004,410839-00004,legacy-import,legacy,unverified,same
+00-410839-00004,410839-4,legacy-import,legacy,unverified,same
+00-410839-00004,51-1121,AllPoints OCM (= Robertshaw 1950-53B),AllPoints,fact,same
+00-410839-00004,721027-1,superseded number,Hobart OEM product page Replaced By,fact,superseded_by_alias
+00-410839-00004,Robertshaw 1950-53B,legacy-import,legacy,unverified,same
+00-410839-00004,STA2T-42195,legacy-import,legacy,unverified,same
+00-410841-00001,00-410841-00002,legacy-import,legacy,unverified,same
+00-410841-00001,110841-1,legacy-import,legacy,unverified,same
+00-410841-00001,410841-00001,legacy-import,legacy,unverified,same
+00-410841-00001,410841-1,legacy-import,legacy,unverified,same
+00-410841-00001,H231,legacy-import,legacy,unverified,same
+00-410841-00001,Robertshaw 700-886,legacy-import,legacy,unverified,same
+00-410841-00001,Robertshaw 7000BMSGOR,legacy-import,legacy,unverified,same
+00-410841-00001,T-103,legacy-import,legacy,unverified,same
+00-410841-00001,VH410841-1,legacy-import,legacy,unverified,same
+00-410841-00022,00-410841-00023,legacy-import,legacy,unverified,same
+00-410841-00022,410841-2,legacy-import,legacy,unverified,same
+00-410841-00022,410841-22,legacy-import,legacy,unverified,same
+00-410841-00022,Robertshaw 700-504,legacy-import,legacy,unverified,same
+00-410841-00022,Robertshaw 7000BMVR,legacy-import,legacy,unverified,same
+00-410841-00022,VH497271-1,legacy-import,legacy,unverified,same
+00-410841-00028,00-410841-00029,legacy-import,legacy,unverified,same
+00-410841-00028,51-1184,legacy-import,legacy,unverified,same
+00-410841-00028,Robertshaw 700-049,legacy-import,legacy,unverified,same
+00-410841-00028,Robertshaw 7000BDER-S7A,legacy-import,legacy,unverified,same
+00-411506-00013,00-272582-00001,legacy-import,legacy,unverified,same
+00-411506-00013,00-411506-00008,legacy-import,legacy,unverified,same
+00-411506-00013,00-721025-00001,legacy-import,legacy,unverified,same
+00-411506-00013,00-913153,legacy-import,legacy,unverified,same
+00-411506-00013,111506-13,legacy-import,legacy,unverified,same
+00-411506-00013,111506-8,legacy-import,legacy,unverified,same
+00-411506-00013,21025-1,legacy-import,legacy,unverified,same
+00-411506-00013,272582-1,legacy-import,legacy,unverified,same
+00-411506-00013,411506-00008,legacy-import,legacy,unverified,same
+00-411506-00013,411506-00013,legacy-import,legacy,unverified,same
+00-411506-00013,411506-13,legacy-import,legacy,unverified,same
+00-411506-00013,411506-8,legacy-import,legacy,unverified,same
+00-411506-00013,721025-00001,legacy-import,legacy,unverified,same
+00-411506-00013,721025-1,legacy-import,legacy,unverified,same
+00-411506-00013,913153,legacy-import,legacy,unverified,same
+00-411506-00013,AllPoints 461183,legacy-import,legacy,unverified,same
+00-411506-00013,Robertshaw 5300-40B,legacy-import,legacy,unverified,same
+00-411506-00013,Robertshaw RX-2-24,legacy-import,legacy,unverified,same
+00-414146-00002,00-414146-00001,legacy-import,legacy,unverified,same
+00-414146-00002,00-416961-000G1,legacy-import,legacy,unverified,same
+00-414146-00002,114146-1,legacy-import,legacy,unverified,same
+00-414146-00002,114146-2,legacy-import,legacy,unverified,same
+00-414146-00002,414146-00002,legacy-import,legacy,unverified,same
+00-414146-00002,414146-1,legacy-import,legacy,unverified,same
+00-414146-00002,414146-2,legacy-import,legacy,unverified,same
+00-414146-00002,416961-000G1,legacy-import,legacy,unverified,same
+00-414146-00002,416961-G1,legacy-import,legacy,unverified,same
+00-414146-00002,VH00-414146-00002,legacy-import,legacy,unverified,same
+00-414805-00002,114805-2,legacy short form,PartsFe / CAPP,fact,same
+00-414805-00002,8010356,AllPoints OCM part,AllPoints,fact,same
+00-414880-00001,114880-1,legacy-import,legacy,unverified,same
+00-414880-00001,24145-20,legacy-import,legacy,unverified,same
+00-414880-00001,414880-00001,legacy-import,legacy,unverified,same
+00-414880-00001,414880-1,legacy-import,legacy,unverified,same
+00-414880-00001,VH114880-1,legacy-import,legacy,unverified,same
+00-414880-00001,VH24145-20,legacy-import,legacy,unverified,same
+00-414880-00001,VH414880-1,legacy-import,legacy,unverified,same
+00-419670-00001,119670-1,legacy-import,legacy,unverified,same
+00-419670-00001,21029-1,legacy-import,legacy,unverified,same
+00-419670-00001,419670-00001,legacy-import,legacy,unverified,same
+00-419670-00001,419670-1,legacy-import,legacy,unverified,same
+00-419670-00001,4735,legacy-import,legacy,unverified,same
+00-419670-00001,721029-00001,legacy-import,legacy,unverified,same
+00-419670-00001,721029-1,legacy-import,legacy,unverified,same
+00-419670-00001,804735,legacy-import,legacy,unverified,same
+00-419670-00001,AB-6753,legacy-import,legacy,unverified,same
+00-419670-00001,AB-6962,legacy-import,legacy,unverified,same
+00-424137-00002,00-913102-00292,OEM replacement,Parts Town banner,fact,supersedes_alias
+00-713930,1952209,Middleby Marshall / Star Mfg cross,FoodServiceDirect OEM copy,fact,same
+00-713930,35-20,Robertshaw pilot series,OEM parts catalog,fact,same
+00-713930,460-117-000,Jade Range cross,FoodServiceDirect OEM copy,fact,same
+00-713930,4611700000,Jade Range cross,FoodServiceDirect OEM copy,fact,same
+00-913102-00292,00-424137-00002,superseded OEM number,Parts Town replacement banner,fact,superseded_by_alias
+00-913102-00292,8014054,AllPoints OCM part number,AllPoints,fact,same
+00-913102-00292,Mod202 24V Direct Spark,Fenwal functional cross,one aftermarket seller,reported,same
+00-944520,8012583,AllPoints OCM part number,AllPoints / Global Industrial,fact,same
+00-959500-00001,959500-00001,legacy-import,legacy,unverified,same
+00-959500-00001,959500-1,previous OEM short form,Parts Town previous-part field,fact,same
+00-959500-00001,N21308670,AllPoints OCM part number,AllPoints,fact,same
+00-959500-00001,VH00-959500-00001,legacy-import,legacy,unverified,same
+01-1000V9-00201,1-1000V9-00201,"same part, Hobart format",AllPoints replaces-list,fact,same
+01-1000V9-00201,1-1000V9-201,legacy short form,AllPoints replaces-list,fact,same
+01-1000V9-00201,8013718,AllPoints OCM part number,AllPoints,fact,same
+721027-1,00-410839-00004,OEM replacement,Hobart OEM product page,fact,supersedes_alias
+721027-1,1950-53B,Robertshaw,distributor,fact,same
+721027-1,51-1121,AllPoints OCM,AllPoints,fact,same
+721027-1,STA2T-42195,Stero cross,PartsFe,fact,same
+RTBF800164,32065700,legacy-import,legacy,unverified,same
+RTBF800164,375856,legacy-import,legacy,unverified,same
+RTBF800164,5102918250,legacy-import,legacy,unverified,same
+RTBF800164,93238,legacy-import,legacy,unverified,same
+RTBF800164,EGO 5102918250,legacy-import,legacy,unverified,same
+RTBF800164,EGO 55.19032.831,legacy-import,legacy,unverified,same
+RTBF800164,EGO 5519032831,legacy-import,legacy,unverified,same
+RTBF800164,HOBRTBF800164,legacy-import,legacy,unverified,same
+RTBF800164,HOBRTCU700609,legacy-import,legacy,unverified,same
+RTBF800164,M173501,legacy-import,legacy,unverified,same
+RTBF800164,MBM291,legacy-import,legacy,unverified,same
+RTBF800164,MRTBF800164,legacy-import,legacy,unverified,same
+RTBF800164,MRTCU700609,legacy-import,legacy,unverified,same
+RTBF800164,RTBF800164,legacy-import,legacy,unverified,same
+RTBF800164,RTCU7006,legacy-import,legacy,unverified,same
+RTCU700609,32065700,legacy-import,legacy,unverified,same
+RTCU700609,375856,legacy-import,legacy,unverified,same
+RTCU700609,5102918250,legacy-import,legacy,unverified,same
+RTCU700609,93238,legacy-import,legacy,unverified,same
+RTCU700609,EGO 5102918250,legacy-import,legacy,unverified,same
+RTCU700609,EGO 55.19032.831,legacy-import,legacy,unverified,same
+RTCU700609,EGO 5519032831,legacy-import,legacy,unverified,same
+RTCU700609,HOBRTBF800164,legacy-import,legacy,unverified,same
+RTCU700609,HOBRTCU700609,legacy-import,legacy,unverified,same
+RTCU700609,M173501,legacy-import,legacy,unverified,same
+RTCU700609,MBM291,legacy-import,legacy,unverified,same
+RTCU700609,MRTBF800164,legacy-import,legacy,unverified,same
+RTCU700609,MRTCU700609,legacy-import,legacy,unverified,same
+RTCU700609,RTBF800164,legacy-import,legacy,unverified,same
+RTCU700609,RTCU7006,legacy-import,legacy,unverified,same
