@@ -1,18 +1,18 @@
 part_number,type,brands,cross_ref_count,interchange_group,reference_page
-00-411506-00013,RX,Hobart / Vulcan / Vulcan / Wolf,18,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-411506-00013-rx-thermostat/
-00-410687-00001,KX,Vulcan,7,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-410687-00001-kx-thermostat/
-00-414880-00001,K,Vulcan / Garland / Welbilt,7,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-414880-00001-k-thermostat/
-00-419670-00001,LC117 Hi-Limit,Vulcan / Broaster / Wolf,10,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-419670-00001-lc117-hi-limit-thermostat/
-00-414146-00002,LCH Hi-Limit,Hobart / Vulcan,10,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-414146-00002-lch-hi-limit-thermostat/
-00-348361-00001,Fenwal,Frymaster / Vulcan / Garland,6,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-348361-00001-fenwal-thermostat/
-RTCU700609,European range (RTCU / RTBF),Hobart / Other brands using the same EGO thermostat,15,G-EGO-HEF47,https://magenta-puffpuff-d66f59.netlify.app/parts/rtcu700609-rtbf800164-hef47-fryer-thermostats/
-RTBF800164,European range (RTCU / RTBF),Hobart / Other brands using the same EGO thermostat,15,G-EGO-HEF47,https://magenta-puffpuff-d66f59.netlify.app/parts/rtcu700609-rtbf800164-hef47-fryer-thermostats/
-00-410841-00001,Gas valve (millivolt),Vulcan / Not applicable,9,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-410841-00001-gas-valve-ghf-millivolt/
-00-410841-00022,Gas valve (millivolt),Vulcan / Hobart,6,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-410841-00022-gas-valve-millivolt-standard/
-00-410841-00028,Gas valve (24 V electronic ignition),Hobart / Vulcan / Other equipment using the same valve,4,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-410841-00028-gas-valve-24v-electronic/
-00-959500-00001,Ignition board,Vulcan / Vulcan (series level),4,,https://magenta-puffpuff-d66f59.netlify.app/parts/00-959500-00001-gas-ignitor-board/
-00-348358-00001,Thermopile (coaxial),Vulcan / Wolf,14,G-THERM-36-COAX,https://magenta-puffpuff-d66f59.netlify.app/parts/00-348358-00001-coaxial-thermopile-36in/
-00-410839-00004,Thermopile (two-lead),Vulcan / Other equipment covered via 721027-1,9,G-THERM-36-2LEAD,https://magenta-puffpuff-d66f59.netlify.app/parts/00-410839-00004-two-lead-thermopile-36in/
+00-411506-00013,RX,Hobart / Vulcan / Vulcan / Wolf,18,,https://fryerparts.pages.dev/parts/00-411506-00013-rx-thermostat/
+00-410687-00001,KX,Vulcan,7,,https://fryerparts.pages.dev/parts/00-410687-00001-kx-thermostat/
+00-414880-00001,K,Vulcan / Garland / Welbilt,7,,https://fryerparts.pages.dev/parts/00-414880-00001-k-thermostat/
+00-419670-00001,LC117 Hi-Limit,Vulcan / Broaster / Wolf,10,,https://fryerparts.pages.dev/parts/00-419670-00001-lc117-hi-limit-thermostat/
+00-414146-00002,LCH Hi-Limit,Hobart / Vulcan,10,,https://fryerparts.pages.dev/parts/00-414146-00002-lch-hi-limit-thermostat/
+00-348361-00001,Fenwal,Frymaster / Vulcan / Garland,6,,https://fryerparts.pages.dev/parts/00-348361-00001-fenwal-thermostat/
+RTCU700609,European range (RTCU / RTBF),Hobart / Other brands using the same EGO thermostat,15,G-EGO-HEF47,https://fryerparts.pages.dev/parts/rtcu700609-rtbf800164-hef47-fryer-thermostats/
+RTBF800164,European range (RTCU / RTBF),Hobart / Other brands using the same EGO thermostat,15,G-EGO-HEF47,https://fryerparts.pages.dev/parts/rtcu700609-rtbf800164-hef47-fryer-thermostats/
+00-410841-00001,Gas valve (millivolt),Vulcan / Not applicable,9,,https://fryerparts.pages.dev/parts/00-410841-00001-gas-valve-ghf-millivolt/
+00-410841-00022,Gas valve (millivolt),Vulcan / Hobart,6,,https://fryerparts.pages.dev/parts/00-410841-00022-gas-valve-millivolt-standard/
+00-410841-00028,Gas valve (24 V electronic ignition),Hobart / Vulcan / Other equipment using the same valve,4,,https://fryerparts.pages.dev/parts/00-410841-00028-gas-valve-24v-electronic/
+00-959500-00001,Ignition board,Vulcan / Vulcan (series level),4,,https://fryerparts.pages.dev/parts/00-959500-00001-gas-ignitor-board/
+00-348358-00001,Thermopile (coaxial),Vulcan / Wolf,14,G-THERM-36-COAX,https://fryerparts.pages.dev/parts/00-348358-00001-coaxial-thermopile-36in/
+00-410839-00004,Thermopile (two-lead),Vulcan / Other equipment covered via 721027-1,9,G-THERM-36-2LEAD,https://fryerparts.pages.dev/parts/00-410839-00004-two-lead-thermopile-36in/
 00-410839-00001,"Thermopile (coaxial, 250-750mV)",Vulcan / Wolf,4,G-THERM-36-COAX,00-348358-00001-coaxial-thermopile-36in
 721027-1,"Thermopile (two-lead, legacy)",Hobart,4,G-THERM-36-2LEAD,00-410839-00004-two-lead-thermopile-36in
 00-414805-00002,Ignitor (RH),,2,,
