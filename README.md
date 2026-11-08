@@ -15,8 +15,8 @@ Assembled from publicly available OEM parts manuals, distributor catalogs and in
 
 | File | Rows | Contents |
 |---|---|---|
-| `data/part-numbers.csv` | 13 | Primary part numbers with type and brand coverage |
-| `data/cross-reference.csv` | 119 | Primary number → interchange number mappings |
+| `data/part-numbers.csv` | 22 | Primary part numbers with type and brand coverage |
+| `data/cross-reference.csv` | 156 | Primary number → interchange number mappings, with relationship, direction and confidence |
 | `data/specifications.csv` | 117 | Specification fields per part family (long format) |
 | `data/fitment.csv` | 249 | Part number → brand → compatible model |
 | `data/comparisons.csv` | 10 | Whether one part can replace another, with the reason |
@@ -39,13 +39,21 @@ Brands covered: Hobart, Vulcan, Wolf, Garland, Frymaster, Broaster, Welbilt, plu
 
 ### `part-numbers.csv`
 ```
-part_number, type, brands, cross_ref_count, reference_page
+part_number, type, brands, cross_ref_count, interchange_group, reference_page
 ```
+`interchange_group` marks numbers that are the same physical part under different labels — e.g. `RTCU700609` and `RTBF800164`, a Vulcan and a Hobart label for one thermostat.
 
 ### `cross-reference.csv`
-One row per interchange number. `primary_part_number` is the number the page is organised around; `interchange_number` is every number reported to correspond to it.
+```
+primary_part_number, interchange_number, relationship, source_type, confidence, direction
+```
+`primary_part_number` is the number the page is organised around; `interchange_number` is a number reported to correspond to it.
 
-**Important:** interchange numbers come from distributor tables, not from manufacturer statements. A mapping is a claim about compatibility, not a verification of it.
+- **`relationship`** — the wording the source used (`legacy short form`, `AllPoints OCM`, `superseded number`, …). Rows whose wording is an accessory or sibling statement (`takes …`, `LP conversion kit for …`, `AllPoints OCM for the LH sibling`) are excluded: a part that fits into another part is not that part.
+- **`direction`** — `same` (interchangeable), `supersedes_alias` (the primary is the newer number), or `superseded_by_alias` (the interchange number is newer). Supersession is a chain, not an equivalence: `00-410839-00001` → `00-410839-00004` → `721027-1`, where the coaxial and two-lead thermopiles are explicitly not interchangeable.
+- **`confidence`** — `fact` (manufacturer or component-maker statement), `reported` (distributor table), `unverified` (imported from an earlier compile, not yet traced to a source).
+
+**Important:** most interchange numbers come from distributor tables, not from manufacturer statements. A mapping is a claim about compatibility, not a verification of it.
 
 ### `specifications.csv`
 Long format — one row per field, so families with different fields stay in one table without sparse columns.
