@@ -6,7 +6,7 @@ Assembled from publicly available OEM parts manuals, distributor catalogs and in
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23613053.svg)](https://doi.org/10.5281/zenodo.23613053)
 
-**Archived version with DOI:** [10.5281/zenodo.23613054](https://doi.org/10.5281/zenodo.23613053)
+**Archived versions (concept DOI, always latest):** [10.5281/zenodo.23613053](https://doi.org/10.5281/zenodo.23613053)
 **Full reference site:** https://fryerparts.pages.dev
 
 ---
@@ -149,7 +149,7 @@ BibTeX:
   publisher = {Zenodo},
   version   = {2026-11},
   doi       = {10.5281/zenodo.23613053},
-  url       = {https://doi.org/10.5281/zenodo.23613054}
+  url       = {https://doi.org/10.5281/zenodo.23613053}
 }
 ```
 
