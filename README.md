@@ -4,9 +4,9 @@ A machine-readable cross-reference dataset for commercial deep-fryer components:
 
 Assembled from publicly available OEM parts manuals, distributor catalogs and interchange tables. Provided as a reference for identification and research.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23613054.svg)](https://doi.org/10.5281/zenodo.23613054)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23613053.svg)](https://doi.org/10.5281/zenodo.23613053)
 
-**Archived version with DOI:** [10.5281/zenodo.23613054](https://doi.org/10.5281/zenodo.23613054)
+**Archived version with DOI:** [10.5281/zenodo.23613054](https://doi.org/10.5281/zenodo.23613053)
 **Full reference site:** https://fryerparts.pages.dev
 
 ---
@@ -134,8 +134,8 @@ The site at **https://fryerparts.pages.dev** expands each part number into a ful
 
 ```
 Xue, Kyle. (2026). Commercial Fryer Parts Cross-Reference Dataset
-(Hobart / Vulcan / Wolf / Garland / Frymaster) (Version 1.0) [Data set].
-Zenodo. https://doi.org/10.5281/zenodo.23613054
+(Hobart / Vulcan / Wolf / Garland / Frymaster) (Version 2026-11) [Data set].
+Zenodo. https://doi.org/10.5281/zenodo.23613053
 ```
 
 BibTeX:
@@ -147,8 +147,8 @@ BibTeX:
                (Hobart / Vulcan / Wolf / Garland / Frymaster)},
   year      = 2026,
   publisher = {Zenodo},
-  version   = {1.0},
-  doi       = {10.5281/zenodo.23613054},
+  version   = {2026-11},
+  doi       = {10.5281/zenodo.23613053},
   url       = {https://doi.org/10.5281/zenodo.23613054}
 }
 ```
@@ -160,4 +160,4 @@ BibTeX:
 | Version | Date | DOI | Change |
 |---|---|---|---|
 | 1.0 | 2026-10-24 | 10.5281/zenodo.23613054 | Initial release |
-| 2026-11 | 2026-11-02 | 10.5281/zenodo.23613054 | Current release: 16 part families (thermostats, gas valves, ignition, thermopiles, heating elements); records also served as a live MCP server and JSON API |
+| 2026-11 | 2026-11-15 | 10.5281/zenodo.24247597 | Current release: 16 part families (thermostats, gas valves, ignition, thermopiles, heating elements); records also served as a live MCP server and JSON API |
