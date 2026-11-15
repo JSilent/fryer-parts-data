@@ -66,6 +66,25 @@ One row per (part, brand, model). Model strings are reproduced as published; som
 
 ---
 
+## Hosted endpoints (live)
+
+The dataset is not only these CSV files: the same records are served as a live, read-only API and as a
+remote MCP server that any agent can call without a key.
+
+| Surface | URL | What it gives an agent |
+|---|---|---|
+| Reference site | https://fryerparts.pages.dev | One page per part family: specs, cross-references, compatible models |
+| MCP server | https://fryerparts.pages.dev/mcp | JSON-RPC 2.0 over HTTP; tools `search_parts`, `get_part`, `list_parts` |
+| MCP discovery | https://fryerparts.pages.dev/.well-known/mcp.json | Transport and tool list, no auth |
+| Search API | https://fryerparts.pages.dev/api/search?q=00-411506-00013 | Plain GET; same matching as the MCP tool |
+| All records | https://fryerparts.pages.dev/data/parts.json | Every record as JSON, same fields as the pages |
+| OpenAPI 3.1 | https://fryerparts.pages.dev/openapi.json | The JSON endpoints as a spec |
+| Agent instructions | https://fryerparts.pages.dev/llms.txt | What an assistant may and may not say about this data |
+
+Current dataset version: **2026-11** (see `date_modified` in https://fryerparts.pages.dev/data/index.json).
+
+---
+
 ## What this dataset is not
 
 - **Not an offer, quotation or availability statement.** No row implies a part is in stock at any seller at any price.
@@ -119,3 +138,4 @@ BibTeX:
 | Version | Date | DOI | Change |
 |---|---|---|---|
 | 1.0 | 2026-10-24 | 10.5281/zenodo.23613054 | Initial release |
+| 2026-11 | 2026-11-02 | 10.5281/zenodo.23613054 | Current release: 16 part families (thermostats, gas valves, ignition, thermopiles, heating elements); records also served as a live MCP server and JSON API |
