@@ -35,6 +35,28 @@ Brands covered: Hobart, Vulcan, Wolf, Garland, Frymaster, Broaster, Welbilt, plu
 
 ---
 
+## Coverage boundary
+
+Two surfaces publish this data and they do not cover exactly the same set — stated here so the numbers can be
+checked rather than guessed:
+
+- `data/part-numbers.csv` lists **22 primary part numbers** (thermostats/hi-limits, gas valves, ignition
+  components, thermopiles).
+- **14** of those numbers are the primary number of an expanded page on the reference site (13 thermostat /
+  valve / thermopile pages; several pages carry a family of numbers).
+- **8** rows are CSV-only as primaries: six ignition components have no page at all
+  (`00-414805-00002`, `00-424137-00002`, `00-713930`, `00-913102-00292`, `00-944520`, `01-1000V9-00201`),
+  and two thermopile numbers (`00-410839-00001`, `721027-1`) are covered as cross-references on sibling
+  thermopile pages rather than as their own page.
+- The site also documents **3 heating-element families** (8 part numbers) that are not rows of
+  `part-numbers.csv`; those numbers do appear in `cross-reference.csv` / `fitment.csv` where they are
+  referenced by other parts.
+
+Coverage is stated, not promised: a number missing from one surface is not evidence that the part does not
+exist.
+
+---
+
 ## Data model
 
 ### `part-numbers.csv`

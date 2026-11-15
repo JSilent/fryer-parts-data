@@ -13,8 +13,8 @@ RTBF800164,European range (RTCU / RTBF),Hobart / Other brands using the same EGO
 00-959500-00001,Ignition board,Vulcan / Vulcan (series level),4,,https://fryerparts.pages.dev/parts/00-959500-00001-gas-ignitor-board/
 00-348358-00001,Thermopile (coaxial),Vulcan / Wolf,14,G-THERM-36-COAX,https://fryerparts.pages.dev/parts/00-348358-00001-coaxial-thermopile-36in/
 00-410839-00004,Thermopile (two-lead),Vulcan / Other equipment covered via 721027-1,9,G-THERM-36-2LEAD,https://fryerparts.pages.dev/parts/00-410839-00004-two-lead-thermopile-36in/
-00-410839-00001,"Thermopile (coaxial, 250-750mV)",Vulcan / Wolf,4,G-THERM-36-COAX,00-348358-00001-coaxial-thermopile-36in
-721027-1,"Thermopile (two-lead, legacy)",Hobart,4,G-THERM-36-2LEAD,00-410839-00004-two-lead-thermopile-36in
+00-410839-00001,"Thermopile (coaxial, 250-750mV)",Vulcan / Wolf,4,G-THERM-36-COAX,https://fryerparts.pages.dev/parts/00-348358-00001-coaxial-thermopile-36in/
+721027-1,"Thermopile (two-lead, legacy)",Hobart,4,G-THERM-36-2LEAD,https://fryerparts.pages.dev/parts/00-410839-00004-two-lead-thermopile-36in/
 00-414805-00002,Ignitor (RH),,2,,
 00-424137-00002,Spark ignition control (SGL),,1,,
 00-713930,"Pilot assembly (Robertshaw 35-20, orange wire)",Robertshaw,4,,
