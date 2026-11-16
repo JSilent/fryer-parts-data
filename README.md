@@ -8,6 +8,7 @@ Assembled from publicly available OEM parts manuals, distributor catalogs and in
 
 **Archived versions (concept DOI, always latest):** [10.5281/zenodo.23613053](https://doi.org/10.5281/zenodo.23613053)
 **Full reference site:** https://fryerparts.pages.dev
+**Field notes:** [Your MCP server returns HTTP 200 and still doesn't work](https://dev.to/kyle_xue_0ca4d442673e23c0/your-mcp-server-returns-http-200-and-still-doesnt-work-5354) — what broke when real clients called `/mcp`, and the two release gates that catch it.
 
 ---
 
